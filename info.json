@@ -3,11 +3,12 @@
   "version": "2.0.1",
   "title": "Investment_electric_furnace",
   "author": "Kerutaka",
-  "homepage": "",
+  "homepage": "https://mods.factorio.com/mod/Investment_electric_furnace",
   "description": "An electric furnace capable of mass-producing basic materials in bulk.\nWhile the recipe requires a substantial quantity of materials and takes considerable time to complete, once constructed it boasts overwhelming production capacity, enabling the rapid mass production of basic materials.",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base",
+    "? space_age"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
