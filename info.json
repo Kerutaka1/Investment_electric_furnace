@@ -1,10 +1,10 @@
 {
   "name": "Investment_electric_furnace",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "title": "Investment_electric_furnace",
   "author": "Kerutaka",
   "homepage": "https://mods.factorio.com/mod/Investment_electric_furnace",
-  "description": "An electric furnace capable of mass-producing basic materials in bulk.\nWhile the recipe requires a substantial quantity of materials and takes considerable time to complete, once constructed it boasts overwhelming production capacity, enabling the rapid mass production of basic materials.",
+  "description": "It requires vast quantities of materials before becoming operational, and even after starting up, it demands considerable time.\nYet its productivity is overwhelming.\nCan you master this troublesome electric furnace?",
   "factorio_version": "2.0",
   "dependencies": [
     "base"
